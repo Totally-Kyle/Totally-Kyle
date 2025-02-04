@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm Kyle Miller
 
-<!--
-**Totally-Kyle/Totally-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently an IT technicial working on my data analysis skill with The Knowdeldge House. My goal is to combine my experience from the Knowledge house and my years of being an IT helpdesk technican to break into the world of Databse Administration.
 
-Here are some ideas to get you started:
+My skills include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer imaging,
+Troubleshooting issue,
+Printer\Scanner repair,
+Analysing data
+
+
+I am currently Learning:
+
+Python
+
+Pandas
+
+Exploratory Data Analysis
+
