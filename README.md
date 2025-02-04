@@ -5,7 +5,7 @@
 🤖 My skills include: Computer imaging,
 Troubleshooting issue,
 Printer\Scanner repair,
-Analysing data
+Collecting & Analysing data
 
 
 🧠 I am currently Learning: Python, Pandas, Exploratory Data Analysis, and SQL
